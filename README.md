@@ -1,4 +1,4 @@
-# Hi, My name is Emmanuel Zagal 👋
+# Hi, My name is Emmanuel Zagal
 
 I am a recent college graduate with a Masters Degree in Mechanical Engineering.
 I am passionate about coding, Classical Mechanics, and Engineering.
