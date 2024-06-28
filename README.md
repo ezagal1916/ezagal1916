@@ -6,7 +6,7 @@ I am passionate about Coding, Engineering, and Gaming.
 ## Objective
 My academic journey in Mechanical Engineering has led to a passion for Engineering, Physics, Math, and Coding.
 
-I am currently seeking full-time employment as an Engineer.
+I am currently seeking full-time employment in computer programming or Mechanical Engineering/Controls Engineering.
 
 ## Skills
 
