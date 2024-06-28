@@ -4,12 +4,14 @@
 I am a recent college graduate with a Masters Degree in Mechanical Engineering.
 I am passionate about Coding, Engineering, and Gaming.
 ## Objective
-I am currently seeking full-time employment.
+My academic journey in Mechanical Engineering has led to a passion for Engineering, Physics, Math, and Coding.
 
-## Skill
+I am currently seeking full-time employment as an Engineer.
+
+## Skills
 |-----------------------------------------------|------------------------------|
-| Linux Kernel Modules                          | "hyper-link to project"      |
-| Linux Systems Programming                     | "hyper-link to project"      |
+| c programming                          | <a href="https://github.com/ezagal1916/      |
+| c++ programming                   | "hyper-link to project"      |
 
 ## Tools
 
