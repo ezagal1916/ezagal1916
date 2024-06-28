@@ -10,7 +10,7 @@ I am currently seeking full-time employment as an Engineer.
 
 ## Skills
 |-----------------------------------------------|------------------------------|
-| c programming                          | <a href="https://github.com/ezagal1916/      |
+| c programming                          | <a href="https://github.com/ezagal1916/Projects">c projects</a>      |
 | c++ programming                   | "hyper-link to project"      |
 
 ## Tools
