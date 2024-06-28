@@ -1,9 +1,9 @@
-# Hi, My name is Emmanuel Zagal
+# Hi, my name is Emmanuel Zagal
 
 I am a recent college graduate with a Masters Degree in Mechanical Engineering.
-I am passionate about coding, Classical Mechanics, and Engineering.
+I am passionate about Coding, Engineering, and Gaming.
 ## Objective
-I am currently seeking full-time employment in Controls Engineering, Embedded Systems Engineering, or Mechanical Engineering.
+I am currently seeking full-time employment.
 
 ## Skills
 
