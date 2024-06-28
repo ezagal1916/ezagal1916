@@ -9,9 +9,11 @@ My academic journey in Mechanical Engineering has led to a passion for Engineeri
 I am currently seeking full-time employment as an Engineer.
 
 ## Skills
-|-----------------------------------------------|------------------------------|
-| c programming                          | <a href="https://github.com/ezagal1916/Projects">c projects</a>      |
-| c++ programming                   | "hyper-link to project"      |
+
+Skill                                    | Corrresponding Project |
+|----------------------------------------|------------------------|
+| c programming                          | <a href="https://github.com/ezagal1916/Projects">c projects</a> |
+| c++ programming                        | "hyper-link to project" |
 
 ## Tools
 
