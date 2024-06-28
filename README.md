@@ -13,14 +13,12 @@ I am currently seeking full-time employment as an Engineer.
 Skill                                    | Corrresponding Project |
 |----------------------------------------|------------------------|
 | c programming                          | <a href="https://github.com/ezagal1916/Projects">c projects</a> |
-| c++ programming                        | "hyper-link to project" |
+| c++ programming                        |                        |
 
-## Tools
 
-Split tools here, GDB, Makefiles, etc.
 
 ## Projects
-Insert projects here
+<a href="https://github.com/ezagal1916/Projects"> Projects</a>
 
 
 <!--
